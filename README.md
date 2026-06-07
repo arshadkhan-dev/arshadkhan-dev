@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Bringing+Your+Designs+to+Life+with+Pixel-Perfect+Code" alt="Banner" width="100%">
+  <img src=" https://i.postimg.cc/9QkKSbnk/1780860901946-2.jpg  text=Bringing+Your+Designs+to+Life+with+Pixel-Perfect+Code" alt="Banner" width="100%">
 </div>
 
 ---
